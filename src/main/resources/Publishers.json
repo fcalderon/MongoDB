@@ -1,0 +1,38 @@
+[
+ {
+   "name": "Random House",
+   "date": "4/23/2002",
+   "street": "1475 Broadway",
+   "city": "New York",
+   "zip": 10019,
+   "state": "New York",
+   "country": "US"
+ },
+ {
+   "name": "Random House",
+   "date": "4/23/2002",
+   "street": "375 Hudson Street",
+   "city": "New York",
+   "zip": 10014,
+   "state": "New York",
+   "country": "US"
+ },
+ {
+   "name": "Penguin Publishers",
+   "date": "1/19/1998",
+   "street": "140 Broadway",
+   "city": "New York",
+   "zip": 10013,
+   "state": "New York",
+   "country": "US"
+ },
+ {
+   "name": "Addison-Wesley",
+   "date": "3/1/1994",
+   "street": "75 Arlington Street",
+   "city": "Boston",
+   "zip": 2116,
+   "state": "Massachusetts",
+   "country": "US"
+ }
+]
